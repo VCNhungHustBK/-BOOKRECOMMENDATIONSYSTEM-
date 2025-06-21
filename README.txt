@@ -60,11 +60,10 @@ Script này sẽ:
 cd scripts
 python app.py
 http://localhost:5000 
-```
-Script này sẽ:
-- Đọc dữ liệu đã xử lý
-- Xây dựng ma trận người dùng-sách
-- Tính toán độ tương đồng giữa các sách
+
+### Bước 4: Chạy thử
+Lấy tên sách trong file conbined_book.csv để chạy thử hệ thống ( vì dữ liệu dùng bằng trong file )
+
 ## 6. Kết Quả
 Sau khi chạy, hệ thống sẽ tạo ra các file:
 - `combined_ratings.csv`: Dữ liệu đánh giá đã gộp
